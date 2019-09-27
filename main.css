@@ -1,12 +1,25 @@
 
 body{
-	background-color: rgb(201, 76, 76);
-
+	background-image: url("pictures/purplegrid.png");
 }
+
 
 p {
 	color:rgb(23, 54, 64);
 }
 
+ul {
+	list-style-type: none;
 
+}
+li a {
+	text-decoration: none;
 	
+	padding: 10px 50px;
+	background-color: #dd00dd;
+	color: #FFFFFF;
+}
+li{
+	display: inline-block;
+}
+	}
