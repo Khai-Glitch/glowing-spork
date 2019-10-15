@@ -16,5 +16,12 @@ function loop() {
 	}
 
 	alert("Mine too!");
+}\
+function forloop() {
+	let userInput = prompt("What's your favourite colour?");
+
+	
+
+	alert("Mine too!");
 }
 
