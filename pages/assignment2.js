@@ -8,3 +8,13 @@ function angle_calculator(){
 	alert(angle_3);
 }
 
+function loop() {
+	let userInput = prompt("What's your favourite colour?");
+
+	while(userInput != "purple"){
+		userInput = prompt("You are wrong. try again");
+	}
+
+	alert("Mine too!");
+}
+

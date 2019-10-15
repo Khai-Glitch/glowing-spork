@@ -27,6 +27,8 @@ h1 {text-align: center;
  /* buttons */
 
  #loopy {
- 	display: inline-block;
+
  	background-color: violet;
+ 	width:100%;
+ 	height:3em;
  }
