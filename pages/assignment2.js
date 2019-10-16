@@ -30,6 +30,6 @@ function centuryFromYear(year) {
   	while (year > 0){
     	year = year - 100;
     	centuryCount = centuryCount + 1;
- 	 }
+ 	 
   	return centuryCount;
 	}
