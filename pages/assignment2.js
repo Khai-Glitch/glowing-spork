@@ -25,7 +25,7 @@ function forloop() {
 	alert("Mine too!");
 }
 
-function centuryFromYear(year) {
+function centuryFromYear(year);
  	 let centuryCount = 0;
   	while (year > 0){
     	year = year - 100;
@@ -33,3 +33,24 @@ function centuryFromYear(year) {
  	 
   	return centuryCount;
 	}
+
+
+function tenFour(){
+  for ( var i = 1; i <= 100; i++ )
+  if ( i%4 === 0 && i%10 === 0 )
+
+ {
+console.log("TenFour"); 
+{
+	else if ( i%4 === 0 );
+{ 
+	console.log("Four");
+{ 
+	else if ( i%10 === 0 );
+{ 
+	console.log("Ten");
+{
+	else ();
+{ 
+console.log(i);
+}
