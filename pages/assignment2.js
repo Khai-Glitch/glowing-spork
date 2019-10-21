@@ -21,15 +21,15 @@ function loop() {
 // 	alert("Mine too!");
 // }
 
-function centuryFromYear(){
-	let year = 1992;
- 	 let centuryCount = 0;
-  	while (year > 0){
-    	year = year - 100;
-    	centuryCount = centuryCount + 1;
-  		alert(centuryCount);
-	}
-}
+// function centuryFromYear(){
+// 	let year = 1992;
+//  	 let centuryCount = 0;
+//   	while (year > 0){
+//     	year = year - 100;
+//     	centuryCount = centuryCount + 1;
+//   		alert(centuryCount);
+// 	}
+// }
 
 // function tenFour(){
 // 	 for ( var i = 1; i <= 100; i++ ){
