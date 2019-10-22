@@ -5,7 +5,7 @@ body{
 
 
 p {
-	color:rgb(0, 0, 102);
+	color:black;
 	}
 
 ul {
@@ -16,8 +16,8 @@ li a {
 	text-decoration: none;
 	
 	padding: 10px 50px;
-	background-color: #dd00de;
-	color: #FFFFFF;
+	background-color: #e0b0ff;
+	color: #191919;
 	}
 li{
 	display: inline-block;
