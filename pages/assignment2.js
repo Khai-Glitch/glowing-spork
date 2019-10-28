@@ -26,22 +26,22 @@ function loop() {
 // 	}
 // }
 
-function tenFour(){
-	 for ( var i = 1; i <= 100; i++ ){
-		 if ( i%4 === 0 && i%10 === 0 ){
-		 	alert('k');
-		 }
+// function tenFour(){
+// 	 for ( var i = 1; i <= 100; i++ ){
+// 		 if ( i%4 === 0 && i%10 === 0 ){
+// 		 	alert('k');
+// 		 }
 		 
-		console.log("TenFour"); 
-		else if ( i%4 === 0 ){
-			console.log("Four");
-		}
-		else if ( i%10 === 0 ){
-			console.log("Ten");
-		}
-		else { 
-			console.log(i);
-		}
-	}
-}
+// 		console.log("TenFour"); 
+// 		else if ( i%4 === 0 ){
+// 			console.log("Four");
+// 		}
+// 		else if ( i%10 === 0 ){
+// 			console.log("Ten");
+// 		}
+// 		else { 
+// 			console.log(i);
+// 		}
+// 	}
+// }
 
