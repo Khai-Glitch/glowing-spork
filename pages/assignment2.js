@@ -8,14 +8,6 @@ function angle_calculator(){
 	alert(angle_3);
 }
 
-function loop() {
-	let userInput = prompt("What's your favourite colour?");
-	while(userInput != "purple"){
-		userInput = prompt("You are wrong. try again");
-	}
-	alert("Mine too!");
-}
-
 // function centuryFromYear(){
 // 	let year = 1992;
 //  	 let centuryCount = 0;
