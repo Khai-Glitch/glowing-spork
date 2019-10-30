@@ -8,14 +8,14 @@ function angle_calculator(){
 	alert(angle_3);
 }
 
-function centuryFromYear(){
-	var century=(prompt("enter year"))
-  	while (year > 0){
-    	year = year - 100;
-    	centuryCount = centuryCount + 1;
-  		alert(centuryCount);
-	}
-}
+// function centuryFromYear(){
+// 	var century=(prompt("enter year"))
+//   	while (year > 0){
+//     	year = year - 100;
+//     	centuryCount = centuryCount + 1;
+//   		alert(centuryCount);
+// 	}
+// }
 
 // function tenFour(){
 // 	 for (var i = 1; i <= 100; i++){
