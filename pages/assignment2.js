@@ -39,4 +39,4 @@ function centuryFromYear(){
 // 		}
 // 	}
 // }
-
+//reference for above code:https://www.w3schools.com/java/java_conditions.asp//
