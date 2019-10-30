@@ -10,12 +10,10 @@ function angle_calculator(){
 
 function centuryFromYear(){
 	var year=(prompt("enter year"))
-  	while (year > 0){
     	year = year - 100;
     	year = year + 1;
   		alert(year);
 	}
-}
 
 // function tenFour(){
 // 	 for (var i = 1; i <= 100; i++){
