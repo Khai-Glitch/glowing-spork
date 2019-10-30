@@ -12,8 +12,8 @@ function centuryFromYear(){
 	var century=(prompt("enter year"))
   	while (year > 0){
     	year = year - 100;
-    	centuryCount = centuryCount + 1;
-  		alert(centuryCount);
+    	year = year + 1;
+  		alert(year);
 	}
 }
 
