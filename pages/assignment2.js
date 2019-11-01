@@ -14,12 +14,13 @@ function angle_calculator(){
 	alert(angle_3);
 }
 
-function centuryFromYear(){
-	var year=(prompt("enter year"))
-    	year = year - 100;
-    	year = year + 1 / 1000;
-  		alert(year);
-	}
+	function centuryFromYear(year) {
+    if (year % 100 === 0) {
+        return year / 100;
+    } else {
+        return Math.floor(year / 100) + 1;
+    }
+}
 
 // function tenFour(){
 // 	 for (var i = 1; i <= 100; i++){
