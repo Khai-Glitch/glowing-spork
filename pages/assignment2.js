@@ -17,7 +17,7 @@ function angle_calculator(){
 function centuryFromYear(){
 	var year=(prompt("enter year"))
     	year = year - 100;
-    	year = year + 1 / 10000000;
+    	year = year + 1 / 100000;
   		alert(year);
 	}
 
