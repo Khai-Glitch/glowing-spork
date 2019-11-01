@@ -17,7 +17,7 @@ function angle_calculator(){
 function centuryFromYear(){
 	var year=(prompt("enter year"))
     	year = year - 100;
-    	year = year + 1;
+    	year = year + 1 / 1000;
   		alert(year);
 	}
 
@@ -39,4 +39,7 @@ function centuryFromYear(){
 // 		}
 // 	}
 // }
-//reference for above code:https://www.w3schools.com/java/java_conditions.asp//
+//reference for above code:https://www.w3schools.com/java/java_conditions.asp
+//&//
+//http://stackprinter.appspot.com/questions/what-is-your-solution-to-the-fizzbuzz-problem.html
+//
