@@ -22,20 +22,21 @@ function centuryFromYear(){
 	}
 
 function tenFour(){
-  int modOfTen = (i%10=== 0)
-  int modOfFour = (i%4=== 0) 
-	{
-		else if (i%4 === 0);
-	{ 
-console.log("modOfFour");
-	{ 
-		else if (i%10 === 0);
-	{ 
-console.log("modOfTen");
-	{
-			else {
-		console.log(i);
+  	// var modOfTen = (i%1 0=== 0);
+  	// var modOfFour = (i%4 === 0); 
+  	for (var i = 0; i < 101; i++) {
+  		if (i%4 === 0){ 
+			console.log("Four");
+		} 
+	 	else if (i%10 === 0){ 
+			console.log("Ten");
 		}
+		else if (i%10 === 0 && i%4 === 0) {
+	 		console.log("TenFour");
+		}
+		else{
+			console.log (i)
+ 
 }
 //reference for above code:https://www.w3schools.com/java/java_conditions.asp
 //&//
