@@ -21,24 +21,22 @@ function centuryFromYear(){
   		alert(year);
 	}
 
-// function tenFour(){
-// 	 for (var i = 1; i <= 100; i++){
-// 		 if (i%4 === 0 && i%10 === 0){
-// 		 	alert('k');
-// 		 }
-		 
-// 		console.log("TenFour"); 
-// 		else if (i%4 === 0){
-// 			console.log("Four");
-// 		}
-// 		else if (i%10 === 0){
-// 			console.log("Ten");
-// 		}
-// 		else { 
-// 			console.log(i);
-// 		}
-// 	}
-// }
+function tenFour(){
+  int modOfTen = (i%10=== 0)
+  int modOfFour = (i%4=== 0) 
+	{
+		else if (i%4 === 0);
+	{ 
+console.log("modOfFour");
+	{ 
+		else if (i%10 === 0);
+	{ 
+console.log("modOfTen");
+	{
+			else {
+		console.log(i);
+		}
+}
 //reference for above code:https://www.w3schools.com/java/java_conditions.asp
 //&//
 //http://stackprinter.appspot.com/questions/what-is-your-solution-to-the-fizzbuzz-problem.html
