@@ -45,21 +45,33 @@ function tenFour(){
 //reference for above code:https://www.w3schools.com/java/java_conditions.asp
 //&//
 //http://stackprinter.appspot.com/questions/what-is-your-solution-to-the-fizzbuzz-problem.html//
-function login(){
-  let userName = prompt("Username:");
-  let password = prompt("Password:");
+// function login(){
+//   let userName = prompt("Username:");
+//   let password = prompt("Password:");
 
-	 if(userName == "khai"&& password =="Khaira"){
-	    alert("sleep")
-		}
-	else{
-	  alert("Invalid");
-	  }
-}
+// 	 if(userName == "khai"&& password =="Khaira"){
+// 	    alert("sleep")
+// 		}
+// 	else{
+// 	  alert("Invalid");
+// 	  }
+// }
 
-function everyOtherLetter (input) {
-  let message = prompt("enter your meme here");
-  for (i=0; i < string.length; i++; str.charAt(i))
-  } 
-return 
-console.log(message(test))
+// function everyOtherLetter (input) {
+//   let message = prompt("enter your meme here");
+//   for (i=0; i < string.length; i++; str.charAt(i))
+//   } 
+// return 
+// console.log(message(test))
+
+// function howManyDalmations(){
+// var = ["Hardly any", "More than a handful!", "Woah that is a lot of dogs!", "101 DALMATIANS!!!"];
+//   if (number < 10) return "Hardly any"
+//   if (number > 50) return "More than a handful!"
+//   if (number == 101) return "101 DALMATIANS!!!"
+//   }
+
+// function stringToArray(str){
+// var array = str.split(", ");
+// console.log(array);
+// }
